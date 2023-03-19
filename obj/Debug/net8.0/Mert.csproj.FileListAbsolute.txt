@@ -1,0 +1,15 @@
+C:\Users\mamekha\Desktop\Mert\bin\Debug\net8.0\Mert.exe
+C:\Users\mamekha\Desktop\Mert\bin\Debug\net8.0\Mert.deps.json
+C:\Users\mamekha\Desktop\Mert\bin\Debug\net8.0\Mert.runtimeconfig.json
+C:\Users\mamekha\Desktop\Mert\bin\Debug\net8.0\Mert.dll
+C:\Users\mamekha\Desktop\Mert\bin\Debug\net8.0\Mert.pdb
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.csproj.AssemblyReference.cache
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.AssemblyInfoInputs.cache
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.AssemblyInfo.cs
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.csproj.CoreCompileInputs.cache
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.dll
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\refint\Mert.dll
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.pdb
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\Mert.genruntimeconfig.cache
+C:\Users\mamekha\Desktop\Mert\obj\Debug\net8.0\ref\Mert.dll
